@@ -3,3 +3,6 @@
 *.pdf
 *.zip
 *.pptx
+.~lock.retail_db.pptx#
+.idea
+RetailDB+SalesData
